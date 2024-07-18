@@ -31,6 +31,7 @@ jobs:
 
     - name: Push Docker image to Docker Hub
       run: |
-        docker tag house-price-prediction:latest your_dockerhub_username/house-price-prediction:latest
-        docker push your_dockerhub_username/house-price-prediction:latest
+        docker tag house-price-prediction:latest ayushmeeta12/house-price-prediction:latest
+        docker push ayushmeeta12/house-price-prediction:latest
+
 
