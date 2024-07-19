@@ -5,4 +5,4 @@ pickle-mixin
 pywebio
 scikit-learn
 -e . 
--e file:https://github.com/ayushsingh2278/House-Price-Prediction/blob/main/House%20Price%20Prediction-web_application(main).ipynb
+-e file:https://github.com/ayushsingh2278/House-Price-Prediction/blob/main/House%20Price%20Prediction-web_application(main).py
