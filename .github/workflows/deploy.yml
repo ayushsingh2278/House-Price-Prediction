@@ -37,3 +37,4 @@ jobs:
         docker tag house-price-prediction:latest ayushmeeta12/house-price-prediction:latest
         docker push ayushmeeta12/house-price-prediction:latest
 
+
